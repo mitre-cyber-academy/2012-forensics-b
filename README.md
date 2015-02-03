@@ -16,14 +16,17 @@ An image viewer (for jpeg, xcf, png)
 An archive extraction tool which can handle .tar.bz2 archives (like 7 zip)
 
 Files included:
+
 Generation –
 * jStitchTool.c
   * This takes in two files, a jpeg and an archive, then stitches them together into a jpeg
+
 Decoding – 
 * jRipSeam.c
   * This takes in one file, then splits it back into a jpeg and an archive
 * Makefile
   * This is used to compile the two tools
+
 Challenge – 
 * forensics100.jpg
   * This is the challenge image
