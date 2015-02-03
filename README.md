@@ -8,12 +8,12 @@ Once the archive file is revealed, it can be extracted. Inside are four files: a
 In the three duck files, separate parts of the key can be found. In the picture of Daffy Duck, the first part of the key, 'MCA-,' can be found by zooming into his belly. In the picture of Scrooge McDuck, four characters in the key can be found on his little red bucket. In the picture of Donald Duck, an xcf with layers, the flag is reversed and flipped in a layer behind the image of Donald. Assembling these three sets of flags gives a fifty/fifty chance of having the right flag, which is a low number of combinations required to get the correct answer.
 
 ### Required programs:
-gcc
-make
-steghide
-strings
-An image viewer (for jpeg, xcf, png)
-An archive extraction tool which can handle .tar.bz2 archives (like 7 zip)
+* gcc
+* make
+* steghide
+* strings
+* An image viewer (for jpeg, xcf, png)
+* An archive extraction tool which can handle .tar.bz2 archives (like 7 zip)
 
 ## Files included:
 
